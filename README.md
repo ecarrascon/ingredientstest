@@ -1,2 +1,2 @@
 # ingredientstest-backend
-Backend of https://github.com/ecarrascon/frontend-ingredietstest
+Backend of https://github.com/ecarrascon/ingredietstest-frontend
